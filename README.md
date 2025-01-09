@@ -1,8 +1,8 @@
-# 国科大自动获取课表信息并导出ics文件脚本
+# 国科大自动获取课表信息并导出ics文件脚本 研究生版本
 
 
 
-1. 打开`./config/userInfo.json`文件，在`userName`字段填入登陆`SEP`的用户名，在`password`字段填入登陆`SEP`的密码；
+1. 打开`./config/userInfo.json`文件（修改userInfo.example.json为userInfo.json），在`userName`字段填入登陆`SEP`的用户名，在`password`字段填入登陆`SEP`的密码；
 
 2.
 
