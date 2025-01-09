@@ -4,7 +4,7 @@
 
 1. 打开`./config/userInfo.json`文件（修改userInfo.example.json为userInfo.json），在`userName`字段填入登陆`SEP`的用户名，在`password`字段填入登陆`SEP`的密码；
 
-2.
+2. 查看config.json相关配置是否符合你目前的校区，时间等信息
 
 
 3. 如无报错，执行`python main.py`后，该脚本将在运行目录下输出`course_schedule.ics`文件
