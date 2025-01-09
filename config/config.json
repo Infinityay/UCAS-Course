@@ -1,0 +1,115 @@
+{
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
+    "login_url": "https://sep.ucas.ac.cn/",
+    "pic_url": "https://sep.ucas.ac.cn/changePic",
+    "slogin_url": "https://sep.ucas.ac.cn/slogin",
+    "redirect_url": "https://sep.ucas.ac.cn/portal/site/226/821",
+    "redirect_master_url": "https://sep.ucas.ac.cn/portal/site/524/2412",
+    "score_base_url": "https://xkcts.ucas.ac.cn:8443/score/bks/",
+    "course_base_url": "https://xkcts.ucas.ac.cn:8443/courseManage/",
+    "course_base_url_master": "http://xkgo.ucas.ac.cn:3000/courseManage/main",
+    "course_info_url": "https://xkcts.ucas.ac.cn:8443/course/coursetime/",
+    "semester_start_date": "2025-02-24",
+    "current_semester": "2024—2025学年(春)第二学期",
+    "campus": "雁栖湖",
+    "section_time_table": {
+        "1": [
+            "08:00",
+            "08:50"
+        ],
+        "2": [
+            "08:50",
+            "09:40"
+        ],
+        "3": [
+            "10:00",
+            "10:50"
+        ],
+        "4": [
+            "10:50",
+            "11:40"
+        ],
+        "5": [
+            "13:30",
+            "14:20"
+        ],
+        "6": [
+            "14:20",
+            "15:10"
+        ],
+        "7": [
+            "15:20",
+            "16:10"
+        ],
+        "8": [
+            "16:10",
+            "17:00"
+        ],
+        "9": [
+            "18:10",
+            "19:00"
+        ],
+        "10": [
+            "19:00",
+            "19:50"
+        ],
+        "11": [
+            "20:00",
+            "20:50"
+        ],
+        "12": [
+            "20:50",
+            "21:40"
+        ]
+    },
+    "master_section_time_table": {
+        "1": [
+            "08:30",
+            "09:20"
+        ],
+        "2": [
+            "09:20",
+            "10:10"
+        ],
+        "3": [
+            "10:30",
+            "11:20"
+        ],
+        "4": [
+            "11:20",
+            "12:10"
+        ],
+        "5": [
+            "13:30",
+            "14:20"
+        ],
+        "6": [
+            "14:20",
+            "15:10"
+        ],
+        "7": [
+            "15:30",
+            "16:20"
+        ],
+        "8": [
+            "16:20",
+            "17:10"
+        ],
+        "9": [
+            "18:10",
+            "19:00"
+        ],
+        "10": [
+            "19:00",
+            "19:50"
+        ],
+        "11": [
+            "20:10",
+            "21:00"
+        ],
+        "12": [
+            "21:00",
+            "21:50"
+        ]
+    }
+}
