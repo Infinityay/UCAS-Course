@@ -39,7 +39,7 @@ Thumbs.db
 # Project specific
 config/userInfo.json
 *.log
-*.ics
+
 course_schedule.ics
 
 
